@@ -2,7 +2,7 @@
 ## Hi there! 👋
 
 <p align="center">
-  <img src="your-profile-image-url" width="200" height="200">
+  <img src="[your-profile-image-url](https://media.licdn.com/dms/image/C4D03AQF3rB5ZVZHKMQ/profile-displayphoto-shrink_400_400/0/1630761999638?e=1704326400&v=beta&t=1FuKfODyu229gPSeo4uEQ9YWHYG7eZAXcXEU59GG_WM)" width="200" height="200">
 </p>
 I'm Ujwal Kumar Mahato, a Software Engineer with a passion for innovation and problem-solving.
 
